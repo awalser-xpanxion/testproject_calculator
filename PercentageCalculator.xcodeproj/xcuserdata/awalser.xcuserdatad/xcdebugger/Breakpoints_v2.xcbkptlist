@@ -94,7 +94,7 @@
             startingLineNumber = "23"
             endingLineNumber = "23"
             landmarkName = "testPercentageCalculator()"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -110,54 +110,7 @@
             startingLineNumber = "37"
             endingLineNumber = "37"
             landmarkName = "testLabelValuesShowedProperly()"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PercentageCalculatorTests.PercentageCalculatorTests.testLabelValuesShowedProperly () -&gt; ()"
-                  moduleName = "PercentageCalculatorTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/awalser/Documents/iOS_Projects/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift"
-                  timestampString = "502217486.93838"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "661">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PercentageCalculatorTests.PercentageCalculatorTests.(testLabelValuesShowedProperly () -&gt; ()).(implicit closure #5)"
-                  moduleName = "PercentageCalculatorTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/awalser/Documents/iOS_Projects/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift"
-                  timestampString = "502217486.938723"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "43">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PercentageCalculatorTests.PercentageCalculatorTests.(testLabelValuesShowedProperly () -&gt; ()).(implicit closure #6)"
-                  moduleName = "PercentageCalculatorTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/awalser/Documents/iOS_Projects/PercentageCalculator/PercentageCalculatorTests/PercentageCalculatorTests.swift"
-                  timestampString = "502217486.938975"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
