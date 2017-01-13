@@ -146,13 +146,13 @@
 				TargetAttributes = {
 					22325BB31C62395E006879FF = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = NE3C2MAMTU;
+						DevelopmentTeam = 73CP3TPHE9;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 					22325BC71C62395E006879FF = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = NE3C2MAMTU;
+						DevelopmentTeam = 73CP3TPHE9;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 22325BB31C62395E006879FF;
@@ -342,7 +342,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = NE3C2MAMTU;
+				DEVELOPMENT_TEAM = 73CP3TPHE9;
 				INFOPLIST_FILE = PercentageCalculator/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -361,7 +361,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = NE3C2MAMTU;
+				DEVELOPMENT_TEAM = 73CP3TPHE9;
 				INFOPLIST_FILE = PercentageCalculator/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -379,7 +379,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = NE3C2MAMTU;
+				DEVELOPMENT_TEAM = 73CP3TPHE9;
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
@@ -394,7 +394,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = NE3C2MAMTU;
+				DEVELOPMENT_TEAM = 73CP3TPHE9;
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
